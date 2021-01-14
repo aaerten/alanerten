@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, I'am Alp Erten
+### Design and Development
 
-<!--
-**alperten/alperten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on front end of applications
+- 🌱 I’m currently learning everything about software future
+- 👯 I’m looking to collaborate on front end of applications
+- 🤔 I’m looking for help with back end of applications
+- 💬 Ask me about Anything
+- 📫 How to reach me: alperten@gmail.com
+- 😄 Pronouns: he/him
 -->
+
+Skills: - HTML - CSS - JS - C - C++ - NodeJS  
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alperten)](https://github.com/anuraghazra/github-readme-stats)
