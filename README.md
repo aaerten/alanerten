@@ -10,12 +10,4 @@
 - 😄 Pronouns: he/him
 -->
 
-Skills: 
-- HTML 
-- CSS 
-- JS 
-- C 
-- C++ 
-- NodeJS  
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alperten)](https://github.com/anuraghazra/github-readme-stats)
