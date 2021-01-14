@@ -5,11 +5,17 @@
 - 🌱 I’m currently learning everything about software future
 - 👯 I’m looking to collaborate on front end of applications
 - 🤔 I’m looking for help with back end of applications
-- 💬 Ask me about Anything
+- 💬 Ask me about anything
 - 📫 How to reach me: alperten@gmail.com / https://www.linkedin.com/in/alperten/
 - 😄 Pronouns: he/him
 -->
 
-Skills: - HTML - CSS - JS - C - C++ - NodeJS  
+Skills: 
+- HTML 
+- CSS 
+- JS 
+- C 
+- C++ 
+- NodeJS  
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alperten)](https://github.com/anuraghazra/github-readme-stats)
