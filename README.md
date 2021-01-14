@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on front end of applications
 - 🤔 I’m looking for help with back end of applications
 - 💬 Ask me about Anything
-- 📫 How to reach me: alperten@gmail.com
+- 📫 How to reach me: alperten@gmail.com / https://www.linkedin.com/in/alperten/
 - 😄 Pronouns: he/him
 -->
 
