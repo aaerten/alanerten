@@ -1,4 +1,4 @@
-## Hi there 👋, I'am Alp Erten
+## Hi there 👋, I'am Alan Erten
 ### Design and Development
 
 - 🔭 I’m currently working on front end of applications
