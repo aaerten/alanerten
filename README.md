@@ -6,4 +6,4 @@
 - 👯 I’m looking to collaborate on front end of applications
 - 🤔 I’m looking for help with back end of applications
 - 💬 Ask me about anything
-- 📫 How to reach me: alperten95@gmail.com / www.linkedin.com/in/alperten/
+- 📫 How to reach me: alan.erten@gmail.com / www.linkedin.com/in/alanerten
